@@ -29,4 +29,4 @@ I first had to add dept_no to the table by joining the tables through their shar
 <img width="149" alt="silver_pic" src="https://user-images.githubusercontent.com/82029390/120905268-0976d280-c61f-11eb-9007-2598a5d78e17.png">
 
 
-We can also add the actual department name by adding the department name by adding de.departments in the SELECT line upon making the table in line 280 of this code. This analysis gives us inisght as to which departments will be exhibiting the greatest loss.
+We could also add the actual department name by adding de.departments in the SELECT line upon making the table in line 280 of this code. This analysis gives us insight as to which departments will be exhibiting the greatest loss.
