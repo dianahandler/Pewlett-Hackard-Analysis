@@ -1,4 +1,5 @@
 # Overview
+## Purpose
 The purpose of this analysis was to combine data from multiple csv files that shared various data columns. We created comprehensive joined tables combining information pulled from the different tables using various SQL functions. Through these methods, we were able to determine the number of retiring employees by title and identify employees eligible to participate in Pewlett-Hackard's mentorship program. 
 
 # Results
