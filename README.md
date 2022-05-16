@@ -3,7 +3,7 @@
 The purpose of this analysis was to combine data from multiple csv files that shared various data columns. We created comprehensive joined tables combining information pulled from the different tables using various SQL functions. Through these methods, we were able to determine the number of retiring employees by title and identify employees eligible to participate in Pewlett-Hackard's mentorship program. 
 
 # Results
-- Once we filter out the duplicate titles from our retirement_titles.csv table, we see that 90,399 employees fit the criteria for retirement at Pewlett-Hackard. 
+- Once we filter out the duplicate titles from our retirement_titles.csv table, we can see that 90,399 employees fit the criteria for retirement at Pewlett-Hackard. 
 <img width="731" alt="unique_titles_image" src="https://user-images.githubusercontent.com/82029390/120903290-5bb1f680-c613-11eb-92f1-2ce63cf6b89a.png">
 
 
